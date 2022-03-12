@@ -13,7 +13,7 @@ After install the external programs, download the repository:
 ```
 git clone https://github.com/Nickolaz47/bioinfo_utils.git 
 ```
-Enter the Conciliation folder and install the python libraries:
+Enter the folder and install the python libraries:
 ```
 pip install -r requirements.txt
 ```
